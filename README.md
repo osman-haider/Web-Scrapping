@@ -19,7 +19,7 @@ This project is aimed at scraping data from sentimentrader website using Beautif
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/osman-haider/Web-Scrapping.git](https://github.com/osman-haider/Web-Scrapping.git)
+   git clone https://github.com/osman-haider/Web-Scrapping.git
    cd Web-Scrapping
    ```
 
