@@ -19,8 +19,8 @@ This project is aimed at scraping data from sentimentrader website using Beautif
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your_username/your_project.git](https://github.com/osman-haider/Web-Scrapping.git)
-   cd your_project
+   git clone [https://github.com/osman-haider/Web-Scrapping.git](https://github.com/osman-haider/Web-Scrapping.git)
+   cd Web-Scrapping
    ```
 
 2. Install the required Python packages:
@@ -55,4 +55,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or suggestions, feel free to contact [your_email@example.com](osmanhaider167@gmail.com).
+For any inquiries or suggestions, feel free to contact [osmanhaider167@gmail.com](osmanhaider167@gmail.com).
